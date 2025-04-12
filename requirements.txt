@@ -1,0 +1,5 @@
+pygame
+numpy
+tensorflow | pytorch
+matplotlib (for plotting progress)
+gymnasium (optional, useful for standardizing the env interface)
